@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SAPDevOliver
-- 👀 I’m interested in CAP/RAP and Fiori
+- 👋 Hi, I’m SAPDev@Oliver
+- 👀 I’m interested in CAP-MTA/RAP and Fiori
 
 <!---
 SAPDevOliver/SAPDevOliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
